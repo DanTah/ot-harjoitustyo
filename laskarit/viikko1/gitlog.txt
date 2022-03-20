@@ -1,0 +1,139 @@
+commit 788a2fe196ec813b5788aaa23ae2590610ec9d41
+Author: Luca Tähtelä <luca.tahtela@gmail.com>
+Date:   Sun Mar 20 19:17:16 2022 +0200
+
+    nyt oikeasti file1 poistettu ja file2 uudelleennimetty
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 1f029b91e44b464f33a6106dd59960fc47a3c952
+Author: Luca Tähtelä <luca.tahtela@gmail.com>
+Date:   Sun Mar 20 19:15:34 2022 +0200
+
+    file1 poistettu ja file2 uudelleennimetty
+
+ tiedostoja/file22 | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 16508fe64937a39877d2f6fe41585e678f8bc0b8
+Author: Luca Tähtelä <luca.tahtela@gmail.com>
+Date:   Sun Mar 20 19:09:50 2022 +0200
+
+    file1-3 lisätty
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit da1e1b0ef38bb0ab433a741146c6607962400dbf
+Author: Luca Tähtelä <luca.tahtela@gmail.com>
+Date:   Sun Mar 20 18:19:22 2022 +0200
+
+    ekaa ja kolmatta muokattu
+
+ eka.txt    | 14 +++-----------
+ kolmas.txt |  3 ++-
+ 2 files changed, 5 insertions(+), 12 deletions(-)
+
+commit e33621e7683fb01c5a0b79afda9893fe2021bacd
+Author: Luca Tähtelä <luca.tahtela@gmail.com>
+Date:   Sun Mar 20 18:10:51 2022 +0200
+
+    alkuperäinen tiedosto.txt poistettu
+
+ tiedosto.txt | 12 ------------
+ 1 file changed, 12 deletions(-)
+
+commit b8098db296bf89e2610b92f920a615d78904b60d
+Author: Luca Tähtelä <luca.tahtela@gmail.com>
+Date:   Sun Mar 20 18:10:13 2022 +0200
+
+    nimi vaihdettu
+
+ eka.txt | 12 ++++++++++++
+ 1 file changed, 12 insertions(+)
+
+commit 28d1c3f5ea48d0ba81e3675294f24268fc013473
+Author: Luca Tähtelä <luca.tahtela@gmail.com>
+Date:   Sun Mar 20 18:08:25 2022 +0200
+
+    tiedoston nimi vaihdettu ekaksi
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 1f5a887aec7f1c193dd252fbb087b187737586de
+Author: Luca Tähtelä <luca.tahtela@gmail.com>
+Date:   Sun Mar 20 18:00:26 2022 +0200
+
+    tiedostossa vähän erilaista tekstiä
+
+ tiedosto.txt | 26 +++++++++-----------------
+ 1 file changed, 9 insertions(+), 17 deletions(-)
+
+commit 23cc0bc2660d83c4a43896d889a02a159befdc1b
+Author: Luca Tähtelä <luca.tahtela@gmail.com>
+Date:   Sun Mar 20 17:54:16 2022 +0200
+
+    tiedostossa paljon teksiä
+
+ tiedosto.txt | 20 +++++++++++++++++++-
+ 1 file changed, 19 insertions(+), 1 deletion(-)
+
+commit 8e816d2f5775a95e48d41f99e70982655c187980
+Author: Luca Tähtelä <luca.tahtela@gmail.com>
+Date:   Sun Mar 20 16:16:18 2022 +0200
+
+    tiedosto neljas luotu hakemistoon stuff
+
+ stuff/neljas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 5d3fd8b8b6ee70b3404dd24861fa869cc614c175
+Author: Luca Tähtelä <luca.tahtela@gmail.com>
+Date:   Sun Mar 20 16:13:30 2022 +0200
+
+    nyt kolmatta oikeasti muokattu
+
+ kolmas.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit c77fff2602beb645e5da82552e156e57c6a420d7
+Author: Luca Tähtelä <luca.tahtela@gmail.com>
+Date:   Sun Mar 20 16:03:37 2022 +0200
+
+    toista ja kolmatta muokattu
+
+ toinen.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 293756ab8e67de9610f6f8080b716536a348822c
+Author: Luca Tähtelä <luca.tahtela@gmail.com>
+Date:   Sun Mar 20 15:55:34 2022 +0200
+
+    tiedosto3.txt luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit a56625977c2152e13214b47c04b137c9436e6722
+Author: Luca Tähtelä <luca.tahtela@gmail.com>
+Date:   Sun Mar 20 15:49:04 2022 +0200
+
+    tiedosto.txt päivitetty ja toinen.txt luotu
+
+ tiedosto.txt | 2 ++
+ toinen.txt   | 0
+ 2 files changed, 2 insertions(+)
+
+commit 3889a55a2c0b15b98488421911dc6a019403715f
+Author: Luca Tähtelä <luca.tahtela@gmail.com>
+Date:   Sun Mar 20 15:38:42 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
