@@ -1,6 +1,6 @@
 ## Vaatimusmäärittely
 
-#### Sovelluksen tarkoitus
+#### Sovelluksen tarkoitus:
 
 Tetris on peli, missä pelaaja ohjaa ja kääntää yksi kerrallaan neljästä
 neliöstä koostuvien muotojen putoamista. Kun yksi muoto on pudonnut pelaajan
@@ -9,7 +9,7 @@ pisteitä, joita saadaan muodostamalla muodoista koostuvia aukottomia
 vaakarivejä, mitkä katoavat. 
 
 
-#### Käyttöliittymä
+#### Käyttöliittymä:
 
 Sovellus koostuu x eri näkymästä:
 - aloitusnäkymä, missä mahdollista siirtyä pelinäkymään, ennätysnäkymään tai
